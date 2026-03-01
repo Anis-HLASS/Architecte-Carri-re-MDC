@@ -1,0 +1,5 @@
+{
+  "name": "Architecte Carrière MDC",
+  "description": "Assistant intelligent pour la création de CV optimisés ATS (matching > 92%) selon les normes de la Maison des Cadres. Workflow en 5 étapes : Acquisition, Analyse, Ciblage, Template et Génération LaTeX.",
+  "requestFramePermissions": []
+}
